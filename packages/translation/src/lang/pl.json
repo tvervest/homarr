@@ -1598,7 +1598,9 @@
     },
     "menu": {
       "label": {
-        "settings": "Ustawienia"
+        "settings": "Ustawienia",
+        "options": "",
+        "actions": ""
       }
     },
     "create": {
